@@ -17,6 +17,7 @@ h2 {
   border-style: solid;
   border-width: 1px;
   border-color: white;
+  border-radius: 5px;
 }
 .btn {
   color: white;
@@ -28,6 +29,7 @@ h2 {
   border-style: solid;
   border-width: 1px;
   border-color: white;
+  border-radius: 5px;
 }
 .header{
   width: 80%;
