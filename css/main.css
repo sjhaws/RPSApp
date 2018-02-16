@@ -100,7 +100,7 @@ h2 {
   padding: 15px;
 }
 .viewer{
-  height: 850px;
+  height: 900px;
 }
 #playing-window {
   background-color: white;
@@ -120,4 +120,11 @@ h2 {
 .logo{
   height: 75px;
   width: auto;
+}
+.score{
+  border: solid 1px black;
+}
+.results{
+  font-size: 24px;
+  color: darkcyan;
 }
